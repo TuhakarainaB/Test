@@ -1,0 +1,28 @@
+body {
+    background-color: lightgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Element selector */
+
+h1 {
+    font-size: 2rem;
+}
+
+/* class selector */
+
+.fontChange {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.padded_content {
+    padding: 100px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 25px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: white;
+    
+}
